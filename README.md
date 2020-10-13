@@ -22,4 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-Rails application initial app.
+demo Rails application initial app.
+
